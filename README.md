@@ -28,3 +28,6 @@ Our Logo                   | User can choose device for volume
 * 於主畫面新增音樂控制按鈕(暫停、繼續播放)
 * 修正關卡無法解鎖問題
 * 新增貓咪攻擊圖像
+
+#### 修正歷程 (before ver 2.3)
+https://github.com/Rou-Yi/Covid-Game-Design-0812.git
