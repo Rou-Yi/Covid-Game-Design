@@ -1,7 +1,7 @@
 ### Covid-Game-Design
 
 See some screenshot of this game.
-Our Logo                   | screenshot of game 
+Our Logo                   | User can choose device for volume
 :-------------------------:|:-------------------------:
 ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/images/LOGO1.png?raw=true) | ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2001.png?raw=true)
  screenshot of night        |screenshot of day
