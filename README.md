@@ -3,9 +3,9 @@
 See some screenshot of this game.
 ![screenshot of game1](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2001.png?raw=true)
 
-![screenshot of game2](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2002.png?raw=true)![screenshot of game3](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2003.png?raw=true)
+![screenshot of game2](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2002.png?raw=true)  ![screenshot of game3](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2003.png?raw=true)
 
-![screenshot of game4](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2004.png?raw=true)![screenshot of game5](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2005.png?raw=true)
+![screenshot of game4](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2004.png?raw=true)  ![screenshot of game5](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2005.png?raw=true)
 
 
 #### ver 2.4
