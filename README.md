@@ -11,7 +11,7 @@ Our Logo                   | User can choose device for volume
 
 
 
-#### ver 2.4
+#### ver 2.4 (8/17)
 * 新增遊戲內玩法介紹
 * 新增第五對貓咪病毒
 * 遊戲變數更新
@@ -19,7 +19,7 @@ Our Logo                   | User can choose device for volume
 * 新增「裝置選擇」頁面，用於音量控制
 
 
-#### ver 2.3
+#### ver 2.3 (8/15)
 * 更新介紹 menu
 * 新增白天黑夜換場景的銜接故事
 * 新增配樂
