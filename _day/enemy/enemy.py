@@ -47,7 +47,6 @@ class EnemyGroup:
         if (self.campaign_count > self.campaign_max_count) and (self.enemy_num < self.enemy_num_max):
             self.__expedition.append(random.choice(virus_list))
             self.campaign_count = 0
-            self.campaign_max_count = random.choice([50, 60])  # 隨機派兵速度
             self.enemy_num += 1
         else:
             self.campaign_count += 1
