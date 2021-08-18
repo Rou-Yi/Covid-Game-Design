@@ -8,7 +8,9 @@ Our Logo                   | User can choose device for volume
 ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2002.png?raw=true) | ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2004.png?raw=true)
 ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2003.png?raw=true) | ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2005.png?raw=true)
 
-
+#### ver final (8/18)
+* 註解補充
+* 更新白天介紹頁面
 
 #### ver 2.4 (8/17)
 * 新增遊戲內玩法介紹
