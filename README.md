@@ -4,7 +4,6 @@ See some screenshot of this game.
 
 Our Logo                   | User can choose device for volume
 :-------------------------:|:-------------------------:
- **Screenshot of night** | **Screenshot of day**
 ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/images/LOGO1.png?raw=true) | ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2001.png?raw=true)
  **Screenshot of night** | **Screenshot of day**
 ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2002.png?raw=true) | ![](https://github.com/Rou-Yi/Covid-Game-Design-0814/blob/main/Game%20Screenshot/Screenshot%2004.png?raw=true)
