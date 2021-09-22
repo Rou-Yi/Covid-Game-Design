@@ -1,5 +1,5 @@
 ### Covid-Game-Design
-美術取材來自網站　[かわいいフリー素材集 いらすとや]（https://www.irasutoya.com/）
+美術取材來自網站　[かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
 
 [Download the game for Windows](https://drive.google.com/drive/u/0/folders/1Fj3Rxc7w4n5GZ3Kfet3ONdc6lbBL6xQj) Find *main.exe* to start the game.
 
