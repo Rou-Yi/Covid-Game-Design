@@ -1,9 +1,9 @@
 ### Covid-Game-Design
 美術取材來自網站　[かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
 
-[Download the game for Windows](https://drive.google.com/drive/u/0/folders/1Fj3Rxc7w4n5GZ3Kfet3ONdc6lbBL6xQj) Find *main.exe* to start the game.
+[Download the game for Windows](https://drive.google.com/drive/u/0/folders/1Fj3Rxc7w4n5GZ3Kfet3ONdc6lbBL6xQj) Download the whole folder, and find *main.exe* to start the game.
 
-[Download the game for Mac](https://drive.google.com/drive/u/0/folders/1tmDYgl02SXaJpn9559VZ_5mqH50crO4U) Find *Project ver final\dist\main* to start the game.
+[Download the game for Mac](https://drive.google.com/drive/u/0/folders/1tmDYgl02SXaJpn9559VZ_5mqH50crO4U) Download the whole folder, and find *Project ver final\dist\main* to start the game.
 
 
 See some screenshot of this game.  
