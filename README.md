@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/55d0350b-5285-481b-a8b6-9d529ba84d10)### 「猫の発生 Cat-to-vid」－ 新冠肺炎遊戲設計
-
+# 「猫の発生 Cat-to-vid」－ 新冠肺炎遊戲設計
 
 ## 遊戲簡介：
 猫の発生是一款結合新冠肺炎議題製作趣味塔防遊戲，內含有白天與黑夜兩款不同遊玩方法的小遊戲，透過貓咪對抗病毒的意象，傳遞「白天黑夜防疫不停歇」，的防疫觀念。
@@ -8,12 +7,15 @@
 
 感謝評鑑時提供修改建議的李孟學老師與同學們，在試玩階段發掘很多值得學習與改良的地方。感謝組員們的合作、測試和debug。
 
-## 取材來源:
+
+## 取材來源
 - 圖片: [かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
 - 音效: [Mixkit](https://mixkit.co/free-stock-music/)
 
+
 ## 遊戲包
 [Download the game for Windows]() Download the whole folder, and find *main.exe* to start the game.
+
 
 ## 遊戲示範畫面
 See some screenshot of this game.  
