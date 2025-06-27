@@ -14,7 +14,9 @@
 
 
 ## 遊戲包
-[Download the game for Windows](https://drive.google.com/drive/folders/1yVPpF0GEOzEoxj2yJRLJ0iL58riVFSqy?usp=sharing) Download and unzip the file. Execute main.exe to start the game.
+[Download the game for Windows](https://drive.google.com/drive/folders/1yVPpF0GEOzEoxj2yJRLJ0iL58riVFSqy?usp=sharing) 
+解壓縮檔案後，執行 main.exe 開始體驗。
+Download and unzip the file. Execute main.exe to start the game.
 
 
 ## 遊戲示範畫面
